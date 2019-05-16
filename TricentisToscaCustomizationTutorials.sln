@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperTextBox", "UpperTextBox\UpperTextBox.csproj", "{E52F839A-E492-43BC-8DA7-47B764EDC7DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifyByLabel", "IdentifyByLabel\IdentifyByLabel.csproj", "{7C2BE089-3F28-4020-88F6-478FFC5C2702}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E52F839A-E492-43BC-8DA7-47B764EDC7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E52F839A-E492-43BC-8DA7-47B764EDC7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E52F839A-E492-43BC-8DA7-47B764EDC7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
