@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpperTextBox", "UpperTextBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifyByLabel", "IdentifyByLabel\IdentifyByLabel.csproj", "{7C2BE089-3F28-4020-88F6-478FFC5C2702}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingTree", "ImplementingTree\ImplementingTree.csproj", "{7C7C6D29-9F27-4AD2-819F-D5479C620ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingTreeTricentisSolution", "ImplementingTreeTricentisSolution\ImplementingTreeTricentisSolution.csproj", "{FD672E0D-E327-4261-A1A4-4CBD53FE1C3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C2BE089-3F28-4020-88F6-478FFC5C2702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7C6D29-9F27-4AD2-819F-D5479C620ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7C6D29-9F27-4AD2-819F-D5479C620ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7C6D29-9F27-4AD2-819F-D5479C620ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7C6D29-9F27-4AD2-819F-D5479C620ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD672E0D-E327-4261-A1A4-4CBD53FE1C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD672E0D-E327-4261-A1A4-4CBD53FE1C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD672E0D-E327-4261-A1A4-4CBD53FE1C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD672E0D-E327-4261-A1A4-4CBD53FE1C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
