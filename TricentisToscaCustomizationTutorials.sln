@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingTable", "Implem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingTableTricentisSolution", "ImplementingTableTricentisSolution\ImplementingTableTricentisSolution.csproj", "{1E3E25F3-AEE1-43FF-97EB-90DBEE385607}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingComboBox", "ImplementingComboBox\ImplementingComboBox.csproj", "{A4ABADCC-3CC9-4B9A-A018-73B7160274B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementingComboBoxTricentisSolution", "ImplementingComboBoxTricentisSolution\ImplementingComboBoxTricentisSolution.csproj", "{2FC890DE-FCC1-4503-9773-550D319ED762}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{1E3E25F3-AEE1-43FF-97EB-90DBEE385607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E3E25F3-AEE1-43FF-97EB-90DBEE385607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E3E25F3-AEE1-43FF-97EB-90DBEE385607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4ABADCC-3CC9-4B9A-A018-73B7160274B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4ABADCC-3CC9-4B9A-A018-73B7160274B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4ABADCC-3CC9-4B9A-A018-73B7160274B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4ABADCC-3CC9-4B9A-A018-73B7160274B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC890DE-FCC1-4503-9773-550D319ED762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC890DE-FCC1-4503-9773-550D319ED762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC890DE-FCC1-4503-9773-550D319ED762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC890DE-FCC1-4503-9773-550D319ED762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
